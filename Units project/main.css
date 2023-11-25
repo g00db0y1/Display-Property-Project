@@ -1,3 +1,6 @@
+* {
+  margin: 0;
+}
 #navbar {
   height: 5rem;
   background: #fff;
@@ -14,3 +17,14 @@
   color: #fff;
 }
 
+.hero span{
+  color: #ef4036;
+  font-size: 30px;
+}
+
+.hero-btn{
+  background: #ef4036;
+  color: #fff;
+  border: 5px;
+  border-radius: 3px;
+}
