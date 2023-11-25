@@ -1,11 +1,20 @@
 body{
     background: #f1f5f9;
-    color-scheme: gold;
 }
 
 .container{
-    background: #fff;
-    color-scheme: firebrick;
+    background: #ffffff
 }
 
+h3{
+    color: #645cff;
+}
+
+p{
+    color: #64748b;
+}
+
+.special-container{
+    background: rgba(0, 0, 0, 0.9);
+}
 
